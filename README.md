@@ -8,9 +8,11 @@ russia-it-podcast
 
 
 
-#### DevZen (#DevZen) [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
+#### DevZen ([#DevZen](https://twitter.com/search?q=%23DevZen)) [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
 
-Old EaxCast, в основном про функциональное программирование (на самом деле нет)
+DevZen Podcast (ранее EaxCast) — единственный подкаст на русском языке о программировании, администрировании и вообще IT, который (1) выходит каждую неделю, (2) специализируется на сильно технических темах, не "мобилках", (3) и при этом не является узконаправленным, например, посвященным одному языку программирования или стеку технологий. За первый год своего существования у подкаста появилось более 3000 постоянных слушателей.
+
+Все ведущие DevZen являются профессиональными программистами и пишут много кода каждый день. Кроме того, в выпуски регулярно приходят гости и рассказывают о своем опыте работы с теми или иными технологиями. А слушатели предлагают интересные темы при помощи комментариев на сайте. Новые выпуски записываются в пятницу вечером, и публикуются в субботу днем.
 
 
 | Ведущие             | github                                   | twitter                                   |
@@ -24,7 +26,7 @@ Old EaxCast, в основном про функциональное прогр�
 <br><hr><br>
 
 
-#### Радио-Т [site](http://www.radio-t.com/), [itunes](http://vk.cc/1Fad2N), [pirates version](http://pirates.radio-t.com/)
+#### Радио-Т ([#radiot](https://twitter.com/search?q=%23radiot)) [site](http://www.radio-t.com/), [itunes](http://vk.cc/1Fad2N), [pirates version](http://pirates.radio-t.com/)
 
 Разговоры на темы хайтек, высоких компьютерных технологий, гаджетов, облаков, программирования и прочего интересного из мира ИТ.
 
@@ -40,7 +42,7 @@ Old EaxCast, в основном про функциональное прогр�
 <br><hr><br>
 
 
-#### GolangShow (@GolangShow, #GolangShow): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
+#### GolangShow (@GolangShow, [#GolangShow](https://twitter.com/search?q=%23GolangShow)): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
 
 Русскоязычный подкаст о Go.
 
@@ -49,7 +51,17 @@ Old EaxCast, в основном про функциональное прогр�
 | Артём Андреенко     | [@miolini](https://twitter.com/miolini)     | [@miolini](https://github.com/miolini)  |
 | Алексей Палажченко  | [@paaleksey](https://twitter.com/paaleksey) | [@AlekSi](https://github.com/AlekSi)     |
 | Слава Бахмутов      | [@m0sth8](https://twitter.com/m0sth8)       | [@m0sth8](https://github.com/m0sth8)     |
-| Иван Данилюк        | [@idanyliuk](https://twitter.com/idanyliuk) | [@divan](https://github.com/divan)       |
+| Александр Морозов   | [@lk4d4math](https://twitter.com/LK4D4math) | [@lk4d4](https://github.com/lk4d4)       |
+| Елена Граховац      | [@webdeva](https://twitter.com/webdeva)     | [@rumyantseva](https://github.com/rumyantseva) |
+
+
+<br><hr><br>
+
+#### Без слайдов [youtube](https://www.youtube.com/channel/UCsZx0q0zsObxo9Xvsf-CklQ/videos).
+
+| Ведущие             | twitter                                     | github                                    |
+| :------------------ | ------------------------------------------- | ----------------------------------------- |
+| Alexey Fyodorov     | [@23derevo](https://twitter.com/23derevo)   | [@23derevo](https://github.com/23derevo)  |
 
 
 <br><hr><br>
@@ -138,7 +150,7 @@ Old EaxCast, в основном про функциональное прогр�
 <br><hr><br>
 
 
-#### Разбор Полетов (#razborpoletov): [site](http://razbor-poletov.com/), [fan site](http://pilots.razbor-poletov.com/#/),  [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G), [g+](https://plus.google.com/+Razbor-poletov/about), [facebook](https://www.facebook.com/razborPoletovPodcast).
+#### Разбор Полетов ([#razborpoletov](https://twitter.com/search?q=%23razborpoletov)): [site](http://razbor-poletov.com/), [fan site](http://pilots.razbor-poletov.com/#/),  [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G), [g+](https://plus.google.com/+Razbor-poletov/about), [facebook](https://www.facebook.com/razborPoletovPodcast).
 
  Подкаст о технологиях и разработке программного обеспечения.
 
@@ -171,7 +183,7 @@ JavaScript, 0% воды
 <br><hr><br>
 
 
-#### Как делают игры [site](http://galyonkin.com/podcast/), [itunes](http://vk.cc/2ZsSzE)
+#### Как делают игры [site](http://kdicast.com/), [itunes](http://vk.cc/2ZsSzE)
 
 Подкаст о создании игр.
 
@@ -195,9 +207,9 @@ JavaScript, 0% воды
 
 <br><hr><br>
 
-#### Radio QA [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7), [facebook](http://facebook.com/radioqa), [vk](http://vk.com/radioqa),[twitter](http://twitter.com/radio_qa)
+#### Radio QA [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7), [facebook](http://facebook.com/radioqa), [vk](http://vk.com/radioqa), [twitter](http://twitter.com/radio_qa)
 
-Подкаст не только о тестировании, выходит раз в две недели 
+Подкаст не только о тестировании, выходит раз в две недели
 
 | Ведущие             | blog                                          |
 | :------------------ | ------------------------------------------    |
@@ -223,7 +235,7 @@ JavaScript, 0% воды
 
 <br><hr><br>
 
-#### Solo on .NET [podfm](https://spbaltnet.podfm.ru/solo/), [itunes](https://itunes.apple.com/de/podcast/solo-on-.net/id730081104?mt=2)
+#### Solo on .NET [podfm](https://spbaltnet.podfm.ru/solo/), [itunes](https://itunes.apple.com/ru/podcast/solo-on-.net/id730081104)
 
 Подкаст про разработку программного обеспечения (программирование). Обсуждаемые темы - C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA и многое другое.
 
@@ -235,14 +247,14 @@ JavaScript, 0% воды
 <br><hr><br>
 
 
-#### CTOcast [site](http://ctocast.com/), [itunes](https://itunes.apple.com/ru/podcast/ctocast/id945496997), [rss](http://feeds.feedburner.com/CTOcast)
+#### CTOcast ([#ctocast](https://twitter.com/search?q=%23ctocast)) [site](http://ctocast.com/), [itunes](https://itunes.apple.com/ru/podcast/ctocast/id945496997), [rss](http://feeds.feedburner.com/CTOcast)
 
 Подкаст о технологиях, процессах, инфраструктуре и людях в IT-компаниях.
 
-| Ведущие                 | 
-| :---------------------- | 
-| Александр Астапенко     | 
-| Павел Павлов            |
+| Ведущие                 | twitter                                         | Facebook                                         |
+| :---------------------- | ----------------------------------------------- | ------------------------------------------------ |
+| Александр Астапенко     | [@aaliaksandr](https://twitter.com/aaliaksandr) | [@astapenka](https://www.facebook.com/astapenka) |
+| Павел Павлов            |                                                 |                                                  |
 
 
 <br><hr><br>
@@ -256,7 +268,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | Ведущие             | github                                     | twitter                                     |
 | :------------------ | ------------------------------------------ | ------------------------------------------- |
 | Андрей Дерябин      | [@aderyabin](https://github.com/aderyabin) | [@aderyabin](https://twitter.com/aderyabin) |
-| Кир Шатров          | [@kirs](https://github.com/kirs)           | [@twitter](https://twitter.com/kirs)        |
+| Кир Шатров          | [@kirs](https://github.com/kirs)           | [@kirs](https://twitter.com/kirs)        |
 
 
 <br><hr><br>
@@ -270,3 +282,305 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | :----------------- | ---------------------------------------- | ---------------------------------------------------- |
 | Александр Гончаров | [@websanya](https://github.com/websanya) | [@websanya](https://twitter.com/websanya)            |
 | Никита Тарасов     |                                          | [@justElementar](https://twitter.com/justElementar)  |
+
+
+<br><hr><br>
+
+
+#### DevOps Дефлопе [site](http://devopsdeflope.ru/), [itunes](https://itunes.apple.com/ru/podcast/devops-deflope-podkast/id670175970), [rss](http://feeds.feedburner.com/devopsdeflope), [twitter](https://twitter.com/devopsdeflope)
+
+Русскоязычный подкаст о DevOps.
+
+| Ведущие            | github                                       | twitter                                              |
+| :----------------- | -------------------------------------------- | ---------------------------------------------------- |
+| Никита Борзых      | [@sample](https://github.com/sample)         | [@ex_sample](https://twitter.com/ex_sample)          |
+| Иван Евтухович     | [@evtuhovich](https://github.com/evtuhovich) | [@evtuhovich](https://twitter.com/evtuhovich)        |
+
+
+<br><hr><br>
+
+#### Пятиминутка PHP [site](http://5minphp.ru), [itunes](https://itunes.apple.com/ru/podcast/patiminutka-php/id996423650), [rss](http://feeds.soundcloud.com/users/soundcloud:users:153519653/sounds.rss), [twitter](https://twitter.com/5minphp)
+
+Еженедельный подкаст о новостях из мира PHP, интересных постах в блогах и современных подходах к разработке
+
+| Ведущие             | github                                   | twitter                                       |
+| :------------------ | ---------------------------------------- | ----------------------------------------------|
+| Пётр Мязин          | [@pqr](https://github.com/pqr)           | [@petrmyazin](https://twitter.com/petrmyazin) |
+
+<br><hr><br>
+
+#### Пятиминутка React [site](http://5minreact.ru), [itunes](https://itunes.apple.com/ru/podcast/patiminutka-react/id1178897992), [rss](https://podster.fm/rss.xml?pid=40281), [twitter](https://twitter.com/5minreact)
+
+Подкаст о React и смежных технологиях в мире JavaScript
+
+| Ведущие             | github                                   | twitter                                       |
+| :------------------ | ---------------------------------------- | ----------------------------------------------|
+| Пётр Мязин          | [@pqr](https://github.com/pqr)           | [@petrmyazin](https://twitter.com/petrmyazin) |
+
+<br><hr><br>
+
+#### Hangops Ru [site](http://hangops.ru/), [rss](http://hangops.ru/rss/)
+
+Регулярные интернет-посиделки DevOps инженеров и сочувствующих им людей.
+
+
+<br><hr><br>
+
+
+#### Drupal-подкасты [site](http://podcasts.dru.io/), [rss](http://podcasts.dru.io/rss.xml), [twitter](https://twitter.com/drupalpod)
+
+Чем мы тут занимаемся? Мы разговариваем о Drupal, делимся опытом в веб-разработке и просто общаемся как старые друзья и знакомые (как правило — так оно и есть). Эта CMS во многом влияет на нашу работу, наше хобби, наши социальные проекты. Понятно, что нам интересно все, связанное с Drupal.
+
+
+<br><hr><br>
+
+
+#### LinkMeUp [site](http://linkmeup.ru/), [itunes](https://itunes.apple.com/ru/podcast/linkmeup.-pervyj-podkast-dla/id1065445951), [rss](http://linkmeup.ru/rss/podcasts), [twitter](https://twitter.com/linkmeupru)
+
+Разговаривают на темы сферы телекоммуникаций, средств и сетей связи.
+
+| Ведущие             | twitter                                     | habrahabr                                          |
+| :------------------ | ------------------------------------------- | -------------------------------------------------- |
+| Марат aka eucariot  | [@ieucariot](https://twitter.com/ieucariot) | [@eucariot](https://habrahabr.ru/users/eucariot/)  |
+| Максим aka gluck    |                                             | [@thegluck](https://habrahabr.ru/users/thegluck/)  |
+| Наталья Пуртова     |                                             |                                                    |
+| Александр Фатин     |                                             |                                                    |
+
+
+<br><hr><br>
+
+
+#### Диалоги #поИБэ [site](http://www.risspa.ru/podcast), [itunes](https://itunes.apple.com/ru/podcast/dialogi-poibe/id869831341), [rss](http://podster.fm/rss.xml?pid=14092)
+
+Подкаст о высоких технологиях и кибербезопасности. Проект популяризации темы информационной безопасности в РФ.
+
+| Ведущие              | twitter                                           |
+| :------------------- | ------------------------------------------------- |
+| Евгений Климов       |                                                   |
+| Екатерина Старостина | [@cyberstarcat](https://twitter.com/cyberstarcat) |
+
+
+<br><hr><br>
+
+
+#### The Art Of Programming [site](http://blog.golodnyj.ru/), [itunes] (https://itunes.apple.com/ru/podcast/the-art-of-programming/id1046278525), [rss](http://theartofprogramming.podbean.com/feed/)
+
+Подкаст о технологиях и разработке программного обеспечения.
+
+| Ведущие             | github                                           | twitter                                           |
+| :------------------ | ------------------------------------------------ | ------------------------------------------------- |
+| Антон Черноусов     | [@golodnyj](https://github.com/golodnyj)         | [@golodnyj](https://twitter.com/golodnyj)         |
+
+
+<br><hr><br>
+
+
+#### Веб-стандарты [SoundCloud](https://soundcloud.com/web-standards), [rss](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss), [itunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
+
+Подкаст сообщества «Веб-стандарты» с новостями фронтенда за минувшую неделю.
+
+| Ведущие             | github                                           | twitter                                           |
+| :------------------ | ------------------------------------------------ | ------------------------------------------------- |
+| Вадим Макеев        | [@pepelsbey](https://github.com/pepelsbey/)      | [@pepelsbey](https://twitter.com/pepelsbey)       |
+| Алексей Симоненко   | [@meritt](https://github.com/meritt)             | [@simonenko](https://twitter.com/simonenko)       |
+| Ольга Алексашенко   | [@tachisis](https://github.com/tachisis/)        | [@tachisis](https://twitter.com/tachisis)         |
+
+
+<br><hr><br>
+
+
+#### Апперитив [site](http://apptractor.ru/podkastyi-apptractor), [rss](http://apptractor.ru/Podcast/rss.xml)
+
+Каждую неделю мы обсуждаем самые значительные события мобильного рынка, самые интересные новости о разработке и маркетинге, лучшие мобильные приложения и бизнес-практики в нашем подкасте.
+
+
+<br><hr><br>
+
+
+#### Android Dev [site](http://apptractor.ru/AndroidDev/), [itunes](https://itunes.apple.com/ru/podcast/android-dev-podkast/id1076856310)
+
+В подкасте мы говорим о разработке во всех ее аспектах, от нарезки дизайна до сборки собственных прошивок. Каждый выпуск посвящен не только последним новостям из мира Android разработчиков, но и определенной теме, с которой сталкивается каждый из нас, в процессе создания приложений.
+
+
+| Ведущие               | github                                                  | twitter                                                  |
+| :-------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
+| Денис Неклюдов        | [@nekdenis](https://github.com/nekdenis)                | [@nekdenis](https://twitter.com/nekdenis)                |
+| Александр Ефременков  | [@iamironz](https://github.com/iamironz)                | [@iamironz](https://twitter.com/iamironz)                |
+| Дмитрий Полищук       | [@dpolishuk](https://github.com/dpolishuk)        	   | [@dpolishuk](https://twitter.com/dpolishuk)              |
+| Даниил Сердюков       | [@DanielSerdyukov](https://github.com/DanielSerdyukov/) | [@DanielSerdyukov](https://twitter.com/danielserdyukov)  |
+
+
+<br><hr><br>
+
+
+#### Подкаст сайта jff.name про фриланс [site](http://jff.name/freelance-podcast/), [itunes](https://itunes.apple.com/ru/podcast/podkast-pro-frilans-jff.name/id1015952378), [youtube](https://www.youtube.com/channel/UCL7w_ERUj-1XDHw2S1prYYw/videos)
+
+Подкаст про фриланс и все, что с ним связанно. Основная тема —  иностранные биржи Upwork(oDesk, Elance).
+
+
+<br><hr><br>
+
+
+#### Две столицы [site](http://2capitals.space), [YouTube](https://www.youtube.com/channel/UCVyA6ONMsbIB-TSLZO8HNmQ), [ВКонтакте](https://new.vk.com/podcast2capitals), [Telegaram](https://new.vk.com/podcast2capitals)
+
+Домашний и уютный подкаст последних событий, "горячих" вопросов WEB индустрии, сайтопродвижения, IT разработки и около того. Кухонные разговоры о высоких технологиях.
+
+| Ведущие              | VK                                                | Facebook                                               |
+| :------------------- | ------------------------------------------------- | ------------------------------------------------------ |
+| Дмитрий Филатов      | [@dimaeatworld](https://new.vk.com/dimaeatworld)  | [@dimaeatworld](https://www.facebook.com/dimaeatworld) |
+| Дмитрий Борисов      | [@Кулинар](https://new.vk.com/id4747293)          | [@Кулинар](https://www.facebook.com/dmitriy.kulinar)   |
+
+<br><hr><br>
+
+#### Откровенно про IT-карьеризм [site](http://itpodcasts.com.ua/), [podfm](http://it-career.podfm.ru/)
+
+Откровенно про IT-карьеризм» — программа, посвященная резюме, собеседованиям, построению карьеры и просто беседах о разных IT-сферах. Программу ведут Михаил Марченко — программист, начинающий Scrum master и просто веселый человек, и его соведущая — HR-manager, бизнес-тренер, специалист по оценке и мотивации персонала Ольга Давыдова
+
+| Ведущие              | VK                                                |
+| :------------------- | ------------------------------------------------- |
+| Михаил Марченко      | [shami13](https://new.vk.com/shami13)             |
+| Ольга Давыдова       | [id70969528](https://new.vk.com/id70969528)       |
+| Ната Потапова        | [id1245292](https://new.vk.com/id1245292)         |
+| Анна Камонина        |       
+
+
+<br><hr><br>
+
+#### Хекслет [itunes](https://itunes.apple.com/ru/podcast/hekslet/id1162673070), [SoundCloud](https://soundcloud.com/hexlet), [YouTube](https://www.youtube.com/watch?v=t2X5E8de3OQ&list=PLo6puixMwuSNBQPpzujzLWON2dwPbmJt_), [rss](https://pcr.apple.com/id1162673070)
+
+Это соло-подкаст, темы – мысли и рассуждения о программировании, изучение идей информатики, математики, новости мира ИТ и интересные дискуссии в тусовках разработчиков.
+
+| Ведущие              | Twitter                                           |
+| :------------------- | ------------------------------------------------- |
+| Рахим Давлеткалиев   | [@freetonik](https://twitter.com/freetonik)      |
+
+
+<br><hr><br>
+
+#### Рунетология [podfm](http://runetologia.podfm.ru/)
+
+Аналитическая программа, гостями которой становятся топ-менеджеры крупных интернет-проектов, создатели ярких стартапов, заметные веб-предприниматели. В каждом выпуске передачи освещается бизнес-биография героя интервью и в деталях разбирается та сфера рынка, в которую он наиболее глубоко погружен.
+
+| Ведущие              | Facebook                                          | Twitter |
+| :------------------- | ------------------------------------------------- | ------- |
+| Максим Спиридонов    | [Spiridonov](http://facebook.com/spiridonov)      | [@MaximSpiridonov](http://twitter.com/MaximSpiridonov) |
+
+<br><hr><br>
+
+#### AppleInsider.ru [site](http://appleinsider.ru/ipodcast), [iTunes](https://itunes.apple.com/ru/podcast/id427483050)
+
+Еженедельные обсуждения самых свежих новостей из мира Apple. Запись подкаста проходит в прямом эфире, каждый вторник в 21-00 по московскому времени. Для гостей доступен чат, в котором можно задать вопросы ведущим и гостям подкаста.
+
+| Ведущие              | Twitter |
+| :------------------- | ------- |
+|Миша Королев     |[@dudlik_spb](http://twitter.com/dudlik_spb) |
+|Ренат Гришин     |[@iprizrak](http://twitter.com/iprizrak) |
+|Константин Ёлшин |[@yolshi](http://twitter.com/yolshi) |
+
+
+
+<br><hr><br>
+
+#### Scalalaz [site](http://scalalaz.ru/), [itunes](https://itunes.apple.com/ru/podcast/scalalaz-podcast/id1156356598)
+
+Scalalaz - русскоязычный подкаст о Scala.
+
+| Ведущие             | github                                     |
+| :------------------ | -----------------------------------------  |
+| Алексей Романчук    | [@13h3r](http://github.com/13h3r)          |
+| Вадим Челышов       | [@dos65](http://github.com/dos65)          |
+| Евгений Токарев     | [@strobe](http://github.com/strobe)        |
+| Виктор Тараненко    | [@viktortnk](http://github.com/viktortnk)  |
+| Алексей Фомкин      | [@fomkin](http://github.com/fomkin)        |
+
+
+
+<br><hr><br>
+
+#### Лучеедство [site](https://soundcloud.com/user-282862424)
+
+Лучеедство - подкаст про erlang, elixir.
+
+
+
+<br><hr><br>
+
+#### Two Devs One Ops [site](http://2d1o.ru/episodes/s01e01.html), [rss](http://feeds.feedburner.com/2d1o)
+
+Two Devs One Ops - подкаст про DevOps и современный стек.
+
+| Ведущие             | Twitter                                       |
+| :------------------ | --------------------------------------------- |
+| Кирилл Толкачёв     | [@tolkv](https://twitter.com/tolkv)           |
+| Сергей Егоров       | [@bsideup](https://twitter.com/bsideup)       |
+| Алексей Абашев      | [@a_abashev](https://twitter.com/a_abashev)   |
+| Глеб Смирнов        | [@gvsmirnov](https://twitter.com/gvsmirnov)   |
+| Александр Тарасов   | [@aatarasoff](https://twitter.com/aatarasoff) |
+
+
+
+<br><hr><br>
+
+#### Фронтёрки [site](http://www.fronterki.fm/), [rss](https://fronterki.fireside.fm/rss), [soundcloud](https://soundcloud.com/fronterki)
+
+Подкаст про фронтенд и людей.
+
+| Ведущие             | github                                           | twitter                                       |
+| :------------------ | ------------------------------------------------ | ----------------------------------------------|
+| Тим Маринин         | [@marinintim](https://github.com/marinintim)     | [@marinintim](https://twitter.com/marinintim) |
+
+
+<br><hr><br>
+
+#### devSchacht [site](https://medium.com/devschacht), [soundcloud](https://soundcloud.com/devschacht/)
+Подкаст. Переводы. Веб-разработка.
+
+| Ведущие             | github                                           | twitter                                       |
+| :------------------ | ------------------------------------------------ | ----------------------------------------------|
+| Роман Понаморев     | [@maksugr](https://github.com/maksugr)           | [@maksUgr](https://twitter.com/maksUgr)       |
+| Андрей Мелихов      | [@amel-true](https://github.com/amel-true)       | [@amel_true](https://twitter.com/amel_true)   |
+| Вадим Яловенко      | [@yalovek](https://github.com/yalovek)           | [@yalovek](https://twitter.com/yalovek)       |
+
+
+<br><hr><br>
+
+#### Podlodka Podcast [itunes](https://itunes.apple.com/us/podcast/podlodka-podcast/id1209828744), [soundcloud](https://soundcloud.com/podlodka)
+Podlodka (изначально задумывалось как [pod load cast]) - еженедельный (ну или почти) подкаст про мобильную разработку. Мы обсуждаем различные темы, так или иначе связанные с разработкой - архитектуру, паттерны, библиотеки, процессы разработки в различных компаниях. Подкаст еще очень молодой и мы находимся в поисках оптимального формата как для нас самих, так и для слушателей, но уже можем обещать нескольких постоянных рубрик: обсуждение актуальных новостей и ближайших событий и конференций.
+
+| Ведущие             | github                                           |
+| :------------------ | ------------------------------------------------ |
+| Егор Толстой        | [@etolstoy](https://github.com/etolstoy)         |
+| Стас Цыганов        | [@DevAlloy](https://github.com/DevAlloy)         |
+| Глеб Новик          | [@novixon](https://github.com/novixon)           |                     
+
+
+<br><hr><br>
+
+#### Слава + Паша [site](https://it.asm0dey.ru/)
+Беседы на различные IT-темы, в основном: Java, backend, Docker, Kubernetes и мн. др. Комментарии/багрепорты можно оставлять на сайте или на гитхабе: https://github.com/php-coder/ps-podcast
+
+| Ведущие             | github                                           |
+| :------------------ | ------------------------------------------------ |
+| Павел Финкельштейн  | [@asm0dey](https://github.com/asm0dey)           |
+| Вячеслав Симушин    | [@php-coder](https://github.com/php-coder)       |
+
+
+<br><hr><br>
+
+#### Frontend Weekend [site](https://vk.com/frontendweekend), [itunes](https://itunes.apple.com/ru/podcast/frontend-weekend/id1233996390), [soundcloud](https://soundcloud.com/frontend-weekend)
+Еженедельный подкаст о новостях мира frontend-разработки и индустрии web-технологий изнутри. Обсуждаем всё: от JavaScript и CSS до митапов, конференций и работы в IT-сфере.
+
+| Ведущие             | VK                                               |
+| :------------------ | ------------------------------------------------ |
+| Андрей Смирнов      | [st1ll](https://vk.com/st1ll)                    |
+| Артем Цацин         |                                                  |
+
+
+<br><hr><br>
+
+#### RawMind [site](https://www.patreon.com/b0noi), [itunes](https://itunes.apple.com/ru/podcast/rawmind/id979046733?mt=2)
+Подкаст посвящён миру IT и не только. Здесь всё с чем связана жизнь инженера. Стандартные вопросы начинающих и опыт бывалых, а некоторые выпуски просто познакомят Вас с идеями и мнениями людей о разных темах, иногда и не связанных с IT.
+
+| Ведущие                | twitter                                          |
+| :--------------------- | ------------------------------------------------ |
+| Viacheslav Kovalevskyi | [@b0noi](https://twitter.com/b0noi)              |
